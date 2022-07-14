@@ -1,4 +1,4 @@
-# lambda_map_filter_reduce_exercise
-lambda_map_filter_reduce_exercise
+# advanced_functional_eda
 
-Lambda, map, filter and reduce exercises for beginners.
+
+when dataset is analzed the first time, these codes will be guide for you.
